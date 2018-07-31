@@ -6,5 +6,5 @@ VALUES
   (4, "Sargeant Brown", 13, "F", "brown", "guarded", 0),
   (5, "Melissa", 95, "M", "yellow", "goofy", 1),
   (6, "Grinch", 12, "F", "white", "crabby", 0),
-  (7, "Wendy", 34, "M", "brown", "sweet", 1),
+  (7, "Wendy", 34, "M", "dark brown", "sweet", 1),
   (8, null, 23, "F", "black", "sensitive", 0);
